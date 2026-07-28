@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Oussema Ayari
 
-<!--
-**donttestitwillwork/donttestitwillwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate specialized in Embedded Systems
 
-Here are some ideas to get you started:
+📍 Tunisia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🤖 Embedded Systems Enthusiast
+- 📱 Android Developer
+- 🌍 Passionate about IoT and AI
+
+## 🛠️ Technologies
+
+Java • Kotlin • Spring Boot • Node.js • SQL • MySQL • MariaDB • HTML • CSS • JavaScript • Git • ESP32 • Arduino
+
+## 🌟 Featured Projects
+
+🚧 Smart Construction Worker Safety Monitoring System
+
+🤟 Sign Language Learning Application
+
+🏦 Banking Management System
+
+📚 Library Management System
+
