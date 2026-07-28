@@ -1,8 +1,8 @@
 # Hi 👋 I'm Oussema Ayari
 
-🎓 Computer Science Graduate specialized in Embedded Systems
+🎓 IT Graduate specialized in Embedded Systems
 
-📍 Tunisia
+📍 Ariana 
 
 ## 🚀 About Me
 
